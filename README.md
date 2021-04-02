@@ -3,6 +3,7 @@
 Nama : Andry Prasetia Perdana
 NIM  : 311910284
 Kelas: TI 19 C1
+UNIVERSITAS PELITA BANGSA
 ~~~
 ## Langkah 1
 Buka VSCode dan buat file HTML baru. Setelah itu buat struktur dasar HTML.
